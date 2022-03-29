@@ -1,0 +1,18 @@
+/* class setting */
+.border-red{
+  border: 5px solid red;
+}
+.border-bk{
+  border: 5px solid black;
+}
+.flex{
+  display: flex;
+}
+.flex-center-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.radius-100per{
+  border-radius: 100%;
+}
